@@ -1,15 +1,15 @@
 # HireKarma - AI Placement Simulator Platform
 
-**Research and Development Plan for AI-Powered Engineering Student Placement Preparation**
+## Research and Development Plan for AI-Powered Engineering Student Placement Preparation
 
-![React](https://img.shields.io/badge/React-19.1.0-blue.svg)
-![Firebase](https://img.shields.io/badge/Firebase-11.6.0-orange.svg)
-![Material-UI](https://img.shields.io/badge/Material--UI-7.0.1-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-11.6.0-orange.svg)](https://firebase.google.com/)
+[![Material-UI](https://img.shields.io/badge/Material--UI-7.0.1-blue.svg)](https://mui.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Assignment Submission Date:** September 29, 2025  
-**Student:** Ayush Singh  
-**Repository:** HireKarma - AI Placement Simulator Platform
+> **Assignment Submission Date**: September 29, 2025  
+> **Student**: Ayush Singh  
+> **Repository**: HireKarma - AI Placement Simulator Platform
 
 ## Table of Contents
 
