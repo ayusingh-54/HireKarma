@@ -2,6 +2,7 @@
 
 ## Research and Development Plan for AI-Powered Engineering Student Placement Preparation
 
+
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-11.6.0-orange.svg)](https://firebase.google.com/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-7.0.1-blue.svg)](https://mui.com/)
